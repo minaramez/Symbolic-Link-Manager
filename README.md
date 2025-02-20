@@ -20,8 +20,8 @@ This Python script automates the creation, deletion, and reporting of symbolic l
 ## **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/symbolic-link-manager.git
-   cd symbolic-link-manager
+   git clone https://github.com/minaramez/Symbolic-Link-Manager.git
+   cd Symbolic-Link-Manager
    ```
 2. Ensure the script has execute permissions:
    ```bash
